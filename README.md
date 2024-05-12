@@ -35,6 +35,7 @@
 
 <br clear="both">
 
-![snake animation](https://github.com/AndresGilGlz01/AndresGilGlz01/blob/output/github-contribution-grid-snake2.svg)
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/AndresGilGlz01/AndresGilGlz01/output/github-contribution-grid-snake-dark.svg)
+
 
 ###
