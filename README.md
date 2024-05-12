@@ -1,8 +1,12 @@
-<h2 align="left">Hi 👋! My name is Andrés González and I'm a Backend | .NET developer, from México</h2>
+
 
 ###
 
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm9maHdxYXNvOWhseHF6cjE3czh2Zmc0ejlzaWl6a2JqaTdmZDQzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XfhzPjLDRbGXwAcuiP/giphy.gif"  />
+
+###
+
+Hello everyone! 👋 I'm Andrés González, a passionate software developer specializing in .NET technologies, including WPF, MAUI, and ASP.NET, among other frameworks. Currently, I am in the last semesters of my university career, and I have more than a year of work experience as a backend developer. During this time, I have had the opportunity to work on challenging projects that have improved my teamwork skills and adaptation to projects outside my area.
 
 ###
 
