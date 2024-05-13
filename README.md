@@ -39,7 +39,7 @@ Hello everyone! 👋 I'm Andrés González, a passionate software developer spec
 
 <br clear="both">
 
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/AndresGilGlz01/AndresGilGlz01/output/github-contribution-grid-snake-dark.svg)
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/AndresGilGlz01/AndresGilGlz01/output/github-contribution-grid-snake.svg)
 
 
 ###
